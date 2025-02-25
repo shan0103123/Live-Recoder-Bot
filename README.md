@@ -21,7 +21,6 @@ python bot.pyc
 
 ## Bot Commands
 The bot provides the following commands:
-# command 1
 /start
 Starts the bot and gives you an introduction to its functionalities.
 
