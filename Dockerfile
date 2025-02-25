@@ -8,4 +8,4 @@ RUN apt update && apt upgrade -y
 RUN apt install ffmpeg -y 
 COPY . . 
 
-CMD python3 bot.py
+CMD python3 bot.pyc
