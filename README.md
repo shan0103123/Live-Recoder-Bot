@@ -19,6 +19,14 @@ python3 bot.pyc
 # or
 python bot.pyc
 
+## Bot Commands
+The bot provides the following commands:
+
+/start
+Starts the bot and gives you an introduction to its functionalities.
+/help
+Provides a list of available commands and instructions on how to use the bot.
+
 ## Support the Project
 If you find this project helpful, please consider starring ⭐ and forking 🍴 the repo!
 
