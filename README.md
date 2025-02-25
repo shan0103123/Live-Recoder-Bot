@@ -15,9 +15,9 @@ cd Live-Recorder-Bot
 ### Step 3: Install the required packages
 pip install -r requirements.txt
 ###  Run the bot script
-python3 bot.py
+python3 bot.pyc
 # or
-python bot.py
+python bot.pyc
 
 ## Support the Project
 If you find this project helpful, please consider starring ⭐ and forking 🍴 the repo!
