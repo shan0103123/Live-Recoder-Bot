@@ -18,8 +18,10 @@ pip install -r requirements.txt
 python3 bot.py
 # or
 python bot.py
+
+## Support the Project
+If you find this project helpful, please consider starring ⭐ and forking 🍴 the repo!
+
 ## Follow Us
 
 <p align="left"> <a href="https://youtube.com/@ksbotsoffical"> <img src="https://img.shields.io/badge/YouTube-Follow%20on%20YouTube-red.svg?logo=youtube"> </a> </p> <p align="left"> <a href="https://t.me/ks_bot_officals"> <img src="https://img.shields.io/badge/Telegram-Join%20on%20Telegram-blue.svg?logo=telegram"> </a> </p>
-## Support the Project
-If you find this project helpful, please consider starring ⭐ and forking 🍴 the repo!
